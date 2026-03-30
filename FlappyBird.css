@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+#board{
+    border: 2px solid black;
+    background-image: url("flappybirdbg.png");
+}
+
+#score {
+    text-align: center;
+}
